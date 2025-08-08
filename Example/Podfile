@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PZObjcSwiftUIMain_Tests' do
+  pod 'PZObjcSwiftUIMain', :path => '../'
+  
+  
+end
